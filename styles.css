@@ -9,7 +9,7 @@ body {
 }
 
 .avatar {
-    width: 150px;
+    width: 135px;
 }
 
 .card {
@@ -21,11 +21,12 @@ body {
     text-align: center;
     background: #FCD7AD;
     color: #A57548;
-    border-bottom: 6px solid #82DDF0;
+    
     border-radius: 5px;
     align-items: center;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     cursor: default;
+    border-bottom: 6px solid #82DDF0;
     /*
     Challenge:
     Find a color palette you like on Coolors.co
